@@ -20,3 +20,6 @@ The rest of the group should now ```` clone ```` the project.
 
 **Group member 4** should make a change to the project. ```` Add, commit and push ```` it to Github.
 **All other group members** should the ```` pull ```` the new changes to the project.  
+
+
+© KEA 2018, clbo
